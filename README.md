@@ -1,6 +1,6 @@
 # Mondrian Art
 
-A web application for generating art similar to the style of Piet Mondrian.
+A web application for generating art in a style similar to that of Piet Mondrian.
 
 ## Images
 <p align="center">
